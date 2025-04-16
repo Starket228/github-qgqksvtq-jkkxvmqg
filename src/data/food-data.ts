@@ -234,7 +234,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "f4",
     name: "Patate Douce Frite",
-    description: "Koliko patate douce, Soja ou poisson ou poulet, Jus de tomate, Piment vert, Légumes",
+    description: "Frite pomme de terre-Viande de bœuf ou Pilon- jus de tomate, Piment vert-Légumes ",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/MpndwQ6p/frites-de-patates-douces-0nzq-1200.webp",
     category: "Fritures & accompagnements"
@@ -297,19 +297,27 @@ export const foodItems: FoodItem[] = [
     image: "https://i.postimg.cc/P5PR270J/Poulet-Brais-2000f-de-poulet-Jus-de-tomate-Piment-vert-L-gumes-1.png",
     category: "Grillades & braisé"
   },
+  {
+    id: "g5",
+    name: "Poisson braisé",
+    description: "Poisson BAR (Akpala)-Jus de tomate-Piment vert-Légumes ",
+    price: "2000 FCFA",
+    image: "https://i.postimg.cc/26Qc2j3h/Poisson-brais.jpg",
+    category: "Grillades & braisé"
+  },
 
   // Plats spéciaux
   {
     id: "sp1",
-    name: "Akpan au Poisson",
-    description: "AKPAN, Poisson Frit (Akpala ou Makanzo ou Tilapia), Jus de tomate, Piment vert, Légumes",
+    name: "Akpan Et Poisson Frit Ou Poulet",
+    description: "02 Boules de AKPAN-Poisson Frit (Akpala ou Makanzo ou Tilapia) ou (02) Pilons poulet -Jus de tomate, Piment vert-Légumes sautés",
     price: "1000 FCFA",
     image: "https://i.postimg.cc/3RT94M9R/Akpan-au-poisson.jpg",
     category: "Plats spéciaux"
   },
   {
     id: "sp2",
-    name: "Attiéké et Aloco au Poisson",
+    name: "Atiéké + Aloco et Poisson Ou poulet",
     description: "Aloco, Attiéké, Poisson ou Pilon, Jus de tomate, Piment vert, Légumes",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/pTtz59Dx/Ati-k-et-Aloco-au-Poisson-1500f-Aloco-Ati-k-Poisson-ou-Pilon-Jus-de-tomate-Piment-vert-L-gumes-1.png",
@@ -317,8 +325,8 @@ export const foodItems: FoodItem[] = [
   },
   {
     id: "sp3",
-    name: "Djenkoumé au poulet",
-    description: "Couscous simple ou au gras, Poisson frit ou Pilon, Jus de tomate, Piment",
+    name: "Djenkoumé au Poisson ou Poulet",
+    description: "02 Boules de Pate- SIFIO (Akpala ou Makanzo ou Tilapia) ou (02) Pilons poulet -Jus de tomate, Piment vert-Légumes sautés",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/rwDf7NK8/Djenkoum-au-poulet.jpg",
     category: "Plats spéciaux"
@@ -337,6 +345,14 @@ export const foodItems: FoodItem[] = [
     description: "Attiéké, poisson, légumes, sauce tomate",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/Gm6zmmtJ/Ati-k-au-poisson-2.jpg",
+    category: "Plats spéciaux"
+  },
+  {
+    id: "sp6",
+    name: "Akpan Et Poisson Sifio",
+    description: "02 Boules de AKPAN-SIFIO (Akpala ou Makanzo ou Tilapia) -Jus de tomate, Piment vert-Légumes sautés",
+    price: "2000 FCFA",
+    image: "https://i.postimg.cc/3RT94M9R/Akpan-au-poisson.jpg",
     category: "Plats spéciaux"
   },
 
