@@ -334,7 +334,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "sp4",
     name: "Pinon",
-    description: "Koliko igname, Soja ou poisson ou poulet, Jus de tomate, piment vert, Légumes",
+    description: "pinon rouge composé de gari (semoule de manioc), de viande, de tomates, d'oignons, de piments verts",
     price: "1000 FCFA",
     image: "https://i.postimg.cc/wBJ0jxXZ/Pinon.jpg",
     category: "Plats spéciaux"
