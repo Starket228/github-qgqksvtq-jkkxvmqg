@@ -88,19 +88,35 @@ export const foodItems: FoodItem[] = [
     category: "Pastas"
   },
   {
+    id: "p5",
+    name: "Spaghetti Vert Campagne ",
+    description: "320 g de Pâte Spaghetti-Petits pois-Oignon - Haricot vert - Piment vert-Choux -Carotte – Poivron - Ail – persil-Maïs doux-Viande de Poulet -Un (01) Œuf + viande-Mayonnaise ",
+    price: "1500 FCFA",
+    image: "https://i.postimg.cc/Dw41d4nR/Spaghetti-aux-calamars-et-aux-petits-pois.jpg",
+    category: "Pastas"
+  },
+  {
     id: "p6",
     name: "Plat Indomie Composé",
-    description: "Nouilles Indomie, Oignons, Haricot vert, Choux, Carotte, Poivron, Ail, Persil",
-    price: "1200 FCFA",
+    description: "320 g de nouilles Indomie-Oignon - Haricot vert - Piment vert-Choux - Carotte – Poivron - Ail – persil-Viande de bœuf ou de Poulet- Mayonnaise",
+    price: "1000 FCFA",
     image: "https://i.postimg.cc/V6BMqYRt/plat-indomie-compos-1200f-nouilles-Indomie-Oignons-Haricot-vert-Choux-Carotte-Poivron-Ail-Pers.png",
     category: "Pastas"
   },
   {
     id: "p7",
     name: "Plat Indomie Simple",
-    description: "Nouilles Indomie, Assaisonnement, Mayonnaise",
-    price: "1000 FCFA",
+    description: "320 g de nouilles Indomie-Assaisonnement- Mayonnaise",
+    price: "700 FCFA",
     image: "https://i.postimg.cc/dQjp1r8s/Plat-Indomie-Simple-1000f-de-nouilles-Indomie-Assaisonnement-Mayonnaise-1.png",
+    category: "Pastas"
+  },
+  {
+    id: "p8",
+    name: "Macaroni Tomate Gourmand",
+    description: "320 g de mélange de macaroni-Oignon - Haricot vert - Piment vertChoux - Carotte – Poivron - Ail – persil-Sauce tomate-Viande de bœuf ou de PouletMayonnaise",
+    price: "1000 FCFA",
+    image: "https://i.postimg.cc/PqzyYvMT/maca-2-768x512.jpg",
     category: "Pastas"
   },
 
