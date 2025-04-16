@@ -149,16 +149,16 @@ export const foodItems: FoodItem[] = [
   // Plats sautés
   {
     id: "ps1",
-    name: "Pommes de terre sautées",
-    description: "Frite pomme de terre, Viande de bœuf ou Pilon, Jus de tomate, Piment",
-    price: "2000 FCFA",
+    name: "Sauté Épicé aux Pommes de Terre",
+    description: "Pomme de terre-Carotte – Haricot Vert – Choux-Oignon – Poivron – Persil – Ail-Viande de bœuf ou soja-Jus de tomate, piment vert",
+    price: "1500 FCFA",
     image: "https://i.postimg.cc/hvKCwF7w/Pomme-de-terre-saut-es.jpg",
     category: "Plats sautés"
   },
   {
     id: "ps2",
-    name: "Sautés aux soja",
-    description: "Haricot Vert (15 baguettes), Boules de soja (20 morceaux), Oignon, Poivron",
+    name: "Sauté Verdoyant aux soja",
+    description: "Haricot Vert 15 baguettes- Boules de soja 20 morceaux - Oignon – Poivron – Persil – Ail- Piment vert- Choux - Carotte – Poivron- Mayonnaise",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/xjPpmdwS/Saut-s-aux-soja.jpg",
     category: "Plats sautés"
@@ -173,9 +173,9 @@ export const foodItems: FoodItem[] = [
   },
   {
     id: "ps4",
-    name: "Haricot vert aux gésiers",
-    description: "Haricot vert, Avoine, Épinard, Petits pois, Choux, Oignons, Ail, Persil, Moutarde",
-    price: "2000 FCFA",
+    name: "Sauté Verdoyant aux Gésiers",
+    description: "Haricot Vert 15 baguettes - Gésier 5 morceaux- Oignon – Poivron – Persil – Ail-Piment vert-Choux - Carotte – Poivron- Mayonnaise",
+    price: "1500 FCFA",
     image: "https://i.postimg.cc/kX4stvNx/Haricot-vert-aux-g-siers.jpg",
     category: "Plats sautés"
   },
