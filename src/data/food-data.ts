@@ -57,17 +57,33 @@ export const foodItems: FoodItem[] = [
   // Pastas
   {
     id: "p1",
-    name: "Spaghetti Rouge",
-    description: "Mélange de macaroni, Oignons, Haricot vert, Piment vert, Choux, Carotte, Poivron",
+    name: "Spaghetti Paysanne Rouge",
+    description: "320 g de Pâte Spaghetti- sauce tomate-Oignon - Haricot vert - Piment vert-Choux -Carotte – Poivron - Ail – persil-Œuf ou viande -Mayonnaise",
+    price: "1000 FCFA",
+    image: "https://i.postimg.cc/MHZD5yCJ/Spaghetti-rouge.jpg",
+    category: "Pastas"
+  },
+  {
+    id: "p2",
+    name: "Spaghetti Paysanne Rouge",
+    description: "320 g de Pâte Spaghetti- sauce tomate-Oignon - Haricot vert - Piment vert-Choux -Carotte – Poivron - Ail – persil-Œuf et viande -Mayonnaise",
     price: "1200 FCFA",
     image: "https://i.postimg.cc/MHZD5yCJ/Spaghetti-rouge.jpg",
     category: "Pastas"
   },
   {
     id: "p3",
-    name: "Spaghetti Blanc",
-    description: "Nouilles Indomie, Assaisonnement, Mayonnaise",
+    name: "Spaghetti Paysanne Blanc ",
+    description: "320 g de Pâte Spaghetti-Oignon - Haricot vert - Piment vert-Choux - Carotte – Poivron - Ail – persil-Œuf ou viande -Mayonnaise ",
     price: "1000 FCFA",
+    image: "https://i.postimg.cc/sfKKXNWj/Spaghetti-blanc.jpg",
+    category: "Pastas"
+  },
+  {
+    id: "p4",
+    name: "Spaghetti Paysanne Épicée Blanc ",
+    description: "320 g de Pâte Spaghetti-Oignon - Haricot vert - Piment vert-Choux - Carotte – Poivron - Ail – persil-Œuf et viande -Mayonnaise ",
+    price: "1200 FCFA",
     image: "https://i.postimg.cc/sfKKXNWj/Spaghetti-blanc.jpg",
     category: "Pastas"
   },
