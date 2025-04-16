@@ -124,7 +124,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "sl1",
     name: "Salade du Chef",
-    description: "Laitue, Carotte, Haricot Vert, Tomates, Concombre, Betterave, Oignon",
+    description: "Laitues- Carotte – Haricot Vert – Tomates- Concombre – Betterave- Oignon – Poivron – Persil – Ail Pomme de terre- Petits pois- Spaghetti petit grain- Œuf + Viande",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/nh913VPr/Salade-du-chef.jpg",
     category: "Salades"
@@ -132,7 +132,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "sl2",
     name: "Salade Emeraude",
-    description: "Chou râpé ou finement coupé, Feuilles de laitue, Carottes râpées, Concombre",
+    description: "Chou râpé ou finement coupé- Feuilles de laitue- Carottes râpées- ConcombreTomates- Œuf + Viande- Sauce Mayonnaise",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/0Q0CnGfc/Salade-Emeraude-1500f-Chou-r-p-ou-finement-coup-Feuilles-de-laitue-Carottes-r-p-es-Concombre.png",
     category: "Salades"
@@ -140,7 +140,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "sl3",
     name: "Salade Macédoine",
-    description: "Pommes de terre, Carottes, Macaroni coquillettes, Petits pois, Haricots verts",
+    description: "Pommes de terre- Carottes- Macaroni coquillette- Petits pois - Haricots verts Oignon – Poivron – Persil – Ail- Cornichons et Tomate- Œuf + Viande-sauce Mayonnaise",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/VLVR9042/Salade-Mac-doine.jpg",
     category: "Salades"
