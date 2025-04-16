@@ -184,23 +184,23 @@ export const foodItems: FoodItem[] = [
   {
     id: "r4",
     name: "Couscous Blanc",
-    description: "Pâte Spaghetti, Oignon, Haricot vert, Piment vert, Choux, Carotte",
-    price: "1200 FCFA",
+    description: "Couscous simple -Poisson Frit ou Pilon-Jus de tomate- Piment vert",
+    price: "1500 FCFA",
     image: "https://i.postimg.cc/pL3sv5FK/Couscous-blanc.jpg",
     category: "Riz & variation"
   },
   {
     id: "r5",
-    name: "Couscous au gras à la viande",
-    description: "Pâte Spaghetti, Sauce tomate, Oignon, Haricot vert, Piment vert",
+    name: "Couscous au gras",
+    description: "Couscous au gras -Poisson Frit ou Pilon-Jus de tomate- Piment vert",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/65jHHm6j/Couscous-au-gras-la-viande.jpg",
     category: "Riz & variation"
   },
   {
     id: "r6",
-    name: "Riz au gras",
-    description: "Riz parfumé, légumes, épices",
+    name: "Riz GRAS ou CANTONNAIS",
+    description: "Riz GRAS ou CANTONNAIS-Légumes-Jus de tomate, Piment vert Viande de bœuf frit ou Poisson frit (Akpala ou Makanzo) ou 02 Pilons Poulet",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/bNW1QFPq/Whats-App-Image-2025-04-15-at-07-17-11.jpg",
     category: "Riz & variation"
@@ -208,7 +208,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "r7",
     name: "Riz aux Légumes",
-    description: "Haricot vert, Avoine, Épinard, Petits pois, Choux, Oignons, Ail, Persil, Moutarde, Coq",
+    description: "Riz-Haricot vert – Avouvo – Épinard-Petit pois-Choux – Oignon – Ail – Persil-Macaronicoquillette-Jus de tomate- Piment vert Viande de bœuf frit -Poisson frit (Akpala ou Makanzo)-02 Pilons Poulet- 02 morceaux cuisse Poulet",
     price: "2000 FCFA",
     image: "https://i.postimg.cc/V6hk3pD6/Riz-au-L-gumes-2000f-Haricot-vert-Avoine-pinard-Petits-pois-Choux-Oignons-Ail-Persil-Moutarde-Coq.png",
     category: "Riz & variation"
