@@ -217,8 +217,8 @@ export const foodItems: FoodItem[] = [
   // Fritures & accompagnements
   {
     id: "f2",
-    name: "Koliko au poulet",
-    description: "Koliko patate douce, Soja ou poisson ou poulet, Jus de tomate, Piment vert, Légumes",
+    name: "Koliko igname au Soja ou poisson ou poulet",
+    description: "Koliko igname -Soja - ou poisson ou poulet- Jus de tomate, piment vert-Légumes",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/vTXPwPrm/Koliko-au-poulet.jpg",
     category: "Fritures & accompagnements"
@@ -226,7 +226,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "f3",
     name: "Tortilla aux Légumes",
-    description: "3 Œufs, Pomme de terre, haricots verts, Carotte, Poivrons, Oignons, Ail, Choux",
+    description: "3 Œufs-Pomme de terre – Haricots Verts-Carotte – Poivrons – Oignons – Ail-Choux – Soja ou Gésier – Fromage- Piment vert",
     price: "2500 FCFA",
     image: "https://i.postimg.cc/pX0fcLtY/Tortilla-aux-L-gumes-2500f-3-ufs-Pomme-de-terre-haricots-verts-Carotte-Poivrons-Oignons-Ail-Ch.png",
     category: "Fritures & accompagnements"
@@ -245,6 +245,22 @@ export const foodItems: FoodItem[] = [
     description: "Œufs, pommes de terre, oignons, huile d'olive",
     price: "2000 FCFA",
     image: "https://i.postimg.cc/63X0Cbd8/Tortilla-espagnol.jpg",
+    category: "Fritures & accompagnements"
+  },
+  {
+    id: "f7",
+    name: "Koliko patate douce au Soja ou poisson ou poulet",
+    description: "Koliko patate douce -Soja - ou poisson ou poulet- Jus de tomate, piment vert Légumes",
+    price: "1500 FCFA",
+    image: "https://i.postimg.cc/wTYj1t3w/hq720.jpg",
+    category: "Fritures & accompagnements"
+  },
+  {
+    id: "f6",
+    name: "Frite pomme de terre",
+    description: "Frite pomme de terre-Viande de bœuf ou Pilon- jus de tomate, Piment vert-Légumes",
+    price: "2000 FCFA",
+    image: "https://i.postimg.cc/Pf2wZQsS/frites-fotolia-159013743-m.jpg",
     category: "Fritures & accompagnements"
   },
 
