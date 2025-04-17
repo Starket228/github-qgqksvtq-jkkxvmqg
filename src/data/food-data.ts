@@ -58,7 +58,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "p1",
     name: "Spaghetti Paysanne Rouge",
-    description: "320 g de Pâte Spaghetti- sauce tomate-Oignon - Haricot vert - Piment vert-Choux -Carotte – Poivron - Ail – persil-Œuf ou viande -Mayonnaise",
+    description: "150 g de Pâte Spaghetti- sauce tomate-Oignon - Haricot vert - Piment vert-Choux -Carotte – Poivron - Ail – persil-Œuf ou viande -Mayonnaise",
     price: "1000 FCFA",
     image: "https://i.postimg.cc/MHZD5yCJ/Spaghetti-rouge.jpg",
     category: "Pastas"
@@ -66,7 +66,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "p2",
     name: "Spaghetti Paysanne Rouge",
-    description: "320 g de Pâte Spaghetti- sauce tomate-Oignon - Haricot vert - Piment vert-Choux -Carotte – Poivron - Ail – persil-Œuf et viande -Mayonnaise",
+    description: "150 g de Pâte Spaghetti- sauce tomate-Oignon - Haricot vert - Piment vert-Choux -Carotte – Poivron - Ail – persil-Œuf et viande -Mayonnaise",
     price: "1200 FCFA",
     image: "https://i.postimg.cc/MHZD5yCJ/Spaghetti-rouge.jpg",
     category: "Pastas"
@@ -74,7 +74,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "p3",
     name: "Spaghetti Paysanne Blanc ",
-    description: "320 g de Pâte Spaghetti-Oignon - Haricot vert - Piment vert-Choux - Carotte – Poivron - Ail – persil-Œuf ou viande -Mayonnaise ",
+    description: "150 g de Pâte Spaghetti-Oignon - Haricot vert - Piment vert-Choux - Carotte – Poivron - Ail – persil-Œuf ou viande -Mayonnaise ",
     price: "1000 FCFA",
     image: "https://i.postimg.cc/sfKKXNWj/Spaghetti-blanc.jpg",
     category: "Pastas"
@@ -82,7 +82,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "p4",
     name: "Spaghetti Paysanne Épicée Blanc ",
-    description: "320 g de Pâte Spaghetti-Oignon - Haricot vert - Piment vert-Choux - Carotte – Poivron - Ail – persil-Œuf et viande -Mayonnaise ",
+    description: "150 g de Pâte Spaghetti-Oignon - Haricot vert - Piment vert-Choux - Carotte – Poivron - Ail – persil-Œuf et viande -Mayonnaise ",
     price: "1200 FCFA",
     image: "https://i.postimg.cc/sfKKXNWj/Spaghetti-blanc.jpg",
     category: "Pastas"
@@ -90,7 +90,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "p5",
     name: "Spaghetti Vert Campagne ",
-    description: "320 g de Pâte Spaghetti-Petits pois-Oignon - Haricot vert - Piment vert-Choux -Carotte – Poivron - Ail – persil-Maïs doux-Viande de Poulet -Un (01) Œuf + viande-Mayonnaise ",
+    description: "150 g de Pâte Spaghetti-Petits pois-Oignon - Haricot vert - Piment vert-Choux -Carotte – Poivron - Ail – persil-Maïs doux-Viande de Poulet -Un (01) Œuf + viande-Mayonnaise ",
     price: "1500 FCFA",
     image: "https://i.postimg.cc/Dw41d4nR/Spaghetti-aux-calamars-et-aux-petits-pois.jpg",
     category: "Pastas"
@@ -98,7 +98,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "p6",
     name: "Plat Indomie Composé",
-    description: "320 g de nouilles Indomie-Oignon - Haricot vert - Piment vert-Choux - Carotte – Poivron - Ail – persil-Viande de bœuf ou de Poulet- Mayonnaise",
+    description: "120 g de nouilles Indomie-Oignon - Haricot vert - Piment vert-Choux - Carotte – Poivron - Ail – persil-Viande de bœuf ou de Poulet- Mayonnaise",
     price: "1000 FCFA",
     image: "https://i.postimg.cc/V6BMqYRt/plat-indomie-compos-1200f-nouilles-Indomie-Oignons-Haricot-vert-Choux-Carotte-Poivron-Ail-Pers.png",
     category: "Pastas"
@@ -106,7 +106,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "p7",
     name: "Plat Indomie Simple",
-    description: "320 g de nouilles Indomie-Assaisonnement- Mayonnaise",
+    description: "120 g de nouilles Indomie-Assaisonnement- Mayonnaise",
     price: "700 FCFA",
     image: "https://i.postimg.cc/dQjp1r8s/Plat-Indomie-Simple-1000f-de-nouilles-Indomie-Assaisonnement-Mayonnaise-1.png",
     category: "Pastas"
@@ -114,7 +114,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "p8",
     name: "Macaroni Tomate Gourmand",
-    description: "320 g de mélange de macaroni-Oignon - Haricot vert - Piment vertChoux - Carotte – Poivron - Ail – persil-Sauce tomate-Viande de bœuf ou de PouletMayonnaise",
+    description: "150 g de mélange de macaroni-Oignon - Haricot vert - Piment vertChoux - Carotte – Poivron - Ail – persil-Sauce tomate-Viande de bœuf ou de PouletMayonnaise",
     price: "1000 FCFA",
     image: "https://i.postimg.cc/PqzyYvMT/maca-2-768x512.jpg",
     category: "Pastas"
@@ -166,7 +166,7 @@ export const foodItems: FoodItem[] = [
   {
     id: "ps3",
     name: "Petit pois sauté",
-    description: "Nouilles Indomie, Oignons, Haricot vert, Choux, Carotte, Poivron, Ail, Persil",
+    description: "Petit pois, Mayonnaise, Oignons, Carotte, Poivron, Ail, Persil",
     price: "1200 FCFA",
     image: "https://i.postimg.cc/8C8m982H/Petit-pois-saut.jpg",
     category: "Plats sautés"
